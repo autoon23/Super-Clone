@@ -1,0 +1,312 @@
+.main__element {
+  display: flex;
+}
+
+.main__element-screen {
+  width: 1040px;
+  height: 591px;
+  background-color: black;
+}
+
+.main__table-icon {
+  width: 22px;
+  height: 22px;
+  cursor: pointer;
+}
+
+.main__table-desc {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main__table {
+  background-color: rgb(249, 249, 249);
+  width: 25vi;
+  padding: 20px 20px 20px 15px;
+  border-bottom: 1px solid rgb(229, 229, 229);
+}
+
+.main__table-script {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.main__table-percent {
+  margin-top: 25px;
+  font-size: 15px;
+  color: rgb(41, 16, 16);
+  margin-bottom: 5px;
+}
+
+.main__week {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(249, 249, 249);
+  padding: 15px 20px 15px 20px;
+  border-bottom: 1px solid rgb(229, 229, 229);
+  cursor: pointer;
+}
+
+.main__week-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.main__week-first {
+  font-weight: bold;
+  font-size: 17px;
+}
+
+/* 1강 */
+
+.main__lecture1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20px 20px 20px;
+  cursor: pointer;
+}
+
+.main__lecture1-desc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main__lecture1-info {
+  font-size: 14px;
+  color: rgb(98, 103, 116);
+}
+
+.main__lecture1-done {
+  font-size: 9px;
+  font-weight: bold;
+  background-color: rgb(192, 192, 192);
+  color: white;
+  border-radius: 10px;
+  padding: 5.5px 5px 5.5px 5px;
+  margin-right: 8px;
+}
+
+.main__lecture1-time {
+  font-size: 12px;
+  color: rgb(194, 191, 188);
+}
+
+/* 2강 */
+
+.main__lecture2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20px 20px 20px;
+  cursor: pointer;
+}
+
+.main__lecture2-desc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main__lecture2-info {
+  font-size: 14px;
+  color: rgb(98, 103, 116);
+}
+
+.main__lecture2-done {
+  font-size: 9px;
+  font-weight: bold;
+  background-color: rgb(192, 192, 192);
+  color: white;
+  border-radius: 10px;
+  padding: 5.5px 5px 5.5px 5px;
+  margin-right: 8px;
+}
+
+.main__lecture2-time {
+  font-size: 12px;
+  color: rgb(194, 191, 188);
+}
+
+/* 3강 */
+
+.main__lecture3 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20px 20px 20px;
+  cursor: pointer;
+}
+
+.main__lecture3-desc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main__lecture3-info {
+  font-size: 14px;
+  color: rgb(98, 103, 116);
+}
+
+.main__lecture3-done {
+  font-size: 9px;
+  font-weight: bold;
+  background-color: rgb(192, 192, 192);
+  color: white;
+  border-radius: 10px;
+  padding: 5.5px 5px 5.5px 5px;
+  margin-right: 8px;
+}
+
+.main__lecture3-time {
+  font-size: 12px;
+  color: rgb(194, 191, 188);
+}
+
+/* 4강 */
+
+.main__lecture4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20px 20px 20px;
+  cursor: pointer;
+}
+
+.main__lecture4-desc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main__lecture4-info {
+  font-size: 14px;
+  color: rgb(98, 103, 116);
+}
+
+.main__lecture4-done {
+  font-size: 9px;
+  font-weight: bold;
+  background-color: rgb(192, 192, 192);
+  color: white;
+  border-radius: 10px;
+  padding: 5.5px 5px 5.5px 5px;
+  margin-right: 8px;
+}
+
+.main__lecture4-time {
+  font-size: 12px;
+  color: rgb(194, 191, 188);
+}
+
+/* 5강 */
+
+.main__lecture5 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20px 20px 20px;
+  cursor: pointer;
+}
+
+.main__lecture5-desc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main__lecture5-info {
+  font-size: 14px;
+  color: rgb(98, 103, 116);
+}
+
+.main__lecture5-done {
+  font-size: 9px;
+  font-weight: bold;
+  background-color: rgb(192, 192, 192);
+  color: white;
+  border-radius: 10px;
+  padding: 5.5px 5px 5.5px 5px;
+  margin-right: 8px;
+}
+
+.main__lecture5-time {
+  font-size: 12px;
+  color: rgb(194, 191, 188);
+}
+
+/* 6강 */
+
+.main__lecture6 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20px 20px 20px;
+  cursor: pointer;
+}
+
+.main__lecture6-desc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main__lecture6-info {
+  font-size: 14px;
+  color: rgb(98, 103, 116);
+}
+
+.main__lecture6-done {
+  font-size: 9px;
+  font-weight: bold;
+  background-color: rgb(192, 192, 192);
+  color: white;
+  border-radius: 10px;
+  padding: 5.5px 5px 5.5px 5px;
+  margin-right: 8px;
+}
+
+.main__lecture6-time {
+  font-size: 12px;
+  color: rgb(194, 191, 188);
+}
+
+/* 7강강 */
+
+.main__lecture7 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20px 20px 20px;
+  cursor: pointer;
+}
+
+.main__lecture7-desc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main__lecture7-info {
+  font-size: 14px;
+  color: rgb(98, 103, 116);
+}
+
+.main__lecture7-done {
+  font-size: 9px;
+  font-weight: bold;
+  background-color: rgb(192, 192, 192);
+  color: white;
+  border-radius: 10px;
+  padding: 5.5px 5px 5.5px 5px;
+  margin-right: 8px;
+}
+
+.main__lecture7-time {
+  font-size: 12px;
+  color: rgb(194, 191, 188);
+}

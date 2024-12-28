@@ -1,0 +1,59 @@
+header {
+  width: 1450px;
+  height: 100px;
+  border-bottom: 1px solid rgb(229, 229, 229);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__barl {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
+}
+
+#header__barl-icons {
+  width: 22px;
+  height: 22px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+#header__barl-logo1 {
+  font-size: 22px;
+  font-weight: bold;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+#header__barl-logo2 {
+  font-size: 22px;
+  font-weight: bold;
+  color: rgb(107, 98, 93);
+}
+
+.header__barr {
+  margin-right: 50px;
+}
+
+#header__barr-icon {
+  width: 90px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 5px 20px 5px;
+  border-radius: 10px;
+  font-size: 13px;
+  font-weight: bold;
+  color: rgb(98, 103, 116);
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(229, 229, 229);
+  cursor: pointer;
+}
+
+#header__barr-icon:hover {
+  background-color: rgb(225, 225, 225);
+}
